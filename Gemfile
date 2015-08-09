@@ -22,7 +22,7 @@ gem 'jquery-cdn'
 gem 'sprockets'
 
 group :development do
-  gem "wrong", "~> 0.7.0"
+  gem "wrong", "= 0.7.0"
   gem "rspec"
   gem "rerun"
   gem "rake"
